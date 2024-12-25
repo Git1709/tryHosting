@@ -1,4 +1,0 @@
-1 - /* Smooth animation */
-2 - /* Increases size by 5% */
-3 - /* Enhances shadow on hover */
-4 - /* Smooth scrolling effect */
